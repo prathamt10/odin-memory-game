@@ -1,0 +1,9 @@
+.content {
+    background-color: var(--background-color);
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template: auto auto auto / auto auto auto;
+    gap: 25px;
+}

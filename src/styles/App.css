@@ -1,0 +1,13 @@
+@import './index.css';
+@import './sidebar.css';
+@import './content.css';
+@import './card.css';
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
